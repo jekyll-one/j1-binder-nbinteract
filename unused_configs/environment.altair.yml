@@ -1,0 +1,21 @@
+name: j1-binder-repo
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - ipython
+  - ipywidgets
+  - altair
+  - matplotlib
+  - bqplot
+  - numpy
+  - scipy
+  - pandas
+  - seaborn
+  - statsmodels
+  - matplotlib
+  - pip
+  - pip:
+    - nbinteract
+    - datascience
+    - vega_datasets
