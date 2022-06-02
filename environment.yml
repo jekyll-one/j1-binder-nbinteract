@@ -1,13 +1,12 @@
 name: j1-binder-repo
 channels:
   - defaults
-  - bokeh
   - conda-forge
 dependencies:
   - ipython
   - ipywidgets
   - altair
-  - bokeh>=2.1
+  - bokeh
   - bqplot
   - matplotlib
   - networkx
