@@ -1,4 +1,4 @@
-name: j1-binder-repo
+name: j1-binder-repository
 channels:
   - defaults
   - conda-forge

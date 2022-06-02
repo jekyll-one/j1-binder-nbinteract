@@ -1,10 +1,12 @@
-# J1 NBI Binder Repo
+# J1 Binder Repository
 
 Configuration settings and all notebooks used by the J1 NBI Integration.
+The Binder repo is based on a configuration defined by `environment.yml`.
 
 ## apt.txt
 
-Added ffmeg to make it usable for e.g matplotlib animations
+Added the base **OS package** for `ffmeg` to make it usable in Jupyter
+Notebooks for e.g `matplotlib` animations.
 
 ### NB config
 
