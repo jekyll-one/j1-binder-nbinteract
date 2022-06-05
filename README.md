@@ -3,6 +3,10 @@
 Configuration settings and all notebooks used by the J1 NBI Integration.
 The Binder repo is based on a configuration defined by `environment.yml`.
 
+**NOTE**: This Binder repo is deprecated because the old version of
+the (old/origibal) Python module `nbinteract` v0.2.6 is used.
+
+
 ## apt.txt
 
 Added the base **OS package** for `ffmeg` to make it usable in Jupyter

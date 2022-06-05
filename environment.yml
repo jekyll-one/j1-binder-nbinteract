@@ -1,4 +1,4 @@
-name: j1-binder-repository
+name: j1-binder-nbinteract
 channels:
   - defaults
   - conda-forge
