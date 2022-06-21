@@ -19,4 +19,4 @@ dependencies:
   - pip:
     - datascience
     - vega_datasets
-    - j1-nbinteract    
+    - j1-nbinteract
